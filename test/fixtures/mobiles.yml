@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  mobmodel: MyString
+  price: 1
+  number: 1
+
+two:
+  mobmodel: MyString
+  price: 1
+  number: 1
